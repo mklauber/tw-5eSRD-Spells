@@ -1,0 +1,15 @@
+at_higher_level: When you cast this spell using a spell slot of 4th level or higher, the bonus increases to +2.
+When you use a spell slot of 6th level or higher, the bonus increases to +3.
+casting_time: 1 Bonus Action
+classes: [[Paladin]] [[Wizard]]
+components: V, S
+concentration: Yes
+duration: Concentration, up to 1 hour
+level: 2
+range: Touch
+ritual: No
+school: Transmutation
+title: Magic Weapon
+type: Spell
+
+You touch a nonmagical weapon. Until the spell ends, that weapon becomes a magic weapon with a +1 bonus to attack rolls and damage rolls.

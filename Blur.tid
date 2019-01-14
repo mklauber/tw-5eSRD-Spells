@@ -1,0 +1,14 @@
+at_higher_level: 
+casting_time: 1 Action
+classes: [[Sorcerer]] [[Wizard]]
+components: V
+concentration: Yes
+duration: Concentration, up to 1 minute
+level: 2
+range: Self
+ritual: No
+school: Illusion
+title: Blur
+type: Spell
+
+Your body becomes blurred, shifting and wavering to all who can see you. For the duration, any creature has disadvantage on attack rolls against you. An attacker is immune to this effect if it doesnt rely on sight, as with blindsight, or can see through illusions, as with truesight.

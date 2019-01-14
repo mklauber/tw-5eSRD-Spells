@@ -1,0 +1,14 @@
+at_higher_level: 
+casting_time: 1 Bonus Action
+classes: [[Sorcerer]] [[Warlock]] [[Wizard]]
+components: V
+concentration: No
+duration: Instantaneous
+level: 2
+range: Self
+ritual: No
+school: Conjuration
+title: Misty Step
+type: Spell
+
+Briefly surrounded by silvery mist, you teleport up to 30 feet to an unoccupied space that you can see.

@@ -1,0 +1,14 @@
+at_higher_level: 
+casting_time: 1 Action
+classes: [[Bard]] [[Sorcerer]] [[Warlock]] [[Wizard]]
+components: S
+concentration: Yes
+duration: Concentration, up to 1 round
+level: 0
+range: 30 feet
+ritual: No
+school: Divination
+title: True Strike
+type: Spell
+
+You extend your hand and point a finger at a target in range. Your magic grants you a brief insight into the target&#8217;s defenses. On your next turn, you gain advantage on your first attack roll against the target, provided that this spell hasn&#8217;t ended.

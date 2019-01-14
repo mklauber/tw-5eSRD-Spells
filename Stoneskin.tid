@@ -1,0 +1,14 @@
+at_higher_level: 
+casting_time: 1 Action
+classes: [[Druid]] [[Ranger]] [[Sorcerer]] [[Wizard]]
+components: V, S, M (diamond dust worth 100 gp, which the spell consumes)
+concentration: Yes
+duration: Concentration, up to 1 hour
+level: 4
+range: Touch
+ritual: No
+school: Abjuration
+title: Stoneskin
+type: Spell
+
+This spell turns the flesh of a willing creature you touch as hard as stone. Until the spell ends, the target has resistance to nonmagical bludgeoning, piercing, and slashing damage.

@@ -1,0 +1,16 @@
+at_higher_level: 
+casting_time: Special
+classes: [[Sorcerer]] [[Wizard]]
+components: V, S
+concentration: No
+duration: 1 round
+level: 1
+range: Self
+ritual: No
+school: Abjuration
+title: Shield
+type: Spell
+
+Reaction trigger: You are hit by an attack or targeted by the magic missile spell
+
+An invisible barrier of magical force appears and protects you. Until the start of your next turn, you have a +5 bonus to AC, including against the triggering attack, and you take no damage from magic missile.

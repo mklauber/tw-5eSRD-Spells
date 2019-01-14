@@ -1,0 +1,15 @@
+at_higher_level: When you cast this spell using a spell slot of 2nd level or higher, you can affect one additional beast for each slot level above 1st.
+casting_time: 1 Action
+classes: [[Bard]] [[Druid]] [[Ranger]]
+components: V, S, M (a morsel of food) 
+concentration: No
+duration: 24 hours
+level: 1
+range: 30 feet
+ritual: No
+school: Enchantment
+title: Animal Friendship
+type: Spell
+
+This spell lets you convince a beast that you mean it no harm.
+Choose a beast that you can see within range. It must see and hear you. If the beast’s Intelligence is 4 or higher, the spell fails. Otherwise, the beast must succeed on a Wisdom saving throw or be charmed by you for the spell’s duration. If you or one of your companions harms the target, the spell ends.

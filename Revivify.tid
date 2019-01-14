@@ -1,0 +1,14 @@
+at_higher_level: 
+casting_time: 1 Action
+classes: [[Cleric]] [[Paladin]]
+components: V, S, M (diamonds worth 300 gp, which the spell consumes)
+concentration: No
+duration: Instantaneous
+level: 3
+range: Touch
+ritual: No
+school: Necromancy
+title: Revivify
+type: Spell
+
+You touch a creature that has died within the last minute. That creature returns to life with 1 hit point. This spell can’t return to life a creature that has died of old age, nor can it restore any missing body parts.

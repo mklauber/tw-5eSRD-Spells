@@ -1,0 +1,16 @@
+at_higher_level: 
+casting_time: 1 Action
+classes: [[Cleric]] [[Druid]] [[Paladin]] [[Ranger]]
+components: V, S
+concentration: No
+duration: 1 hour
+level: 2
+range: Touch
+ritual: No
+school: Abjuration
+title: Protection from Poison
+type: Spell
+
+You touch a creature. If it is poisoned, you neutralize the poison. If more than one poison afflicts the target, you neutralize one poison that you know is present, or you neutralize one at random.
+
+For the duration, the target has advantage on saving throws against being poisoned, and it has resistance to poison damage.

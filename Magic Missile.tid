@@ -1,0 +1,14 @@
+at_higher_level: When you cast this spell using a spell slot of 2nd level or higher, the spell creates one more dart for each slot level above 1st.
+casting_time: 1 Action
+classes: [[Sorcerer]] [[Wizard]]
+components: V, S
+concentration: No
+duration: Instantaneous
+level: 1
+range: 120 feet
+ritual: No
+school: Evocation
+title: Magic Missile
+type: Spell
+
+You create three glowing darts of magical force. Each dart hits a creature of your choice that you can see within range. A dart deals 1d4 + 1 force damage to its target. The darts all strike simultaneously and you can direct them to hit one creature or several.

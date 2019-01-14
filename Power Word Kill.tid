@@ -1,0 +1,14 @@
+at_higher_level: 
+casting_time: 1 Action
+classes: [[Bard]] [[Sorcerer]] [[Warlock]] [[Wizard]]
+components: V
+concentration: No
+duration: Instantaneous
+level: 9
+range: 60 feet
+ritual: No
+school: Enchantment
+title: Power Word Kill
+type: Spell
+
+You utter a word of power that can compel one creature you can see within range to die instantly. If the creature you chose has 100 hit points or fewer, it dies. Otherwise, the spell has no effect.

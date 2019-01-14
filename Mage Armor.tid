@@ -1,0 +1,14 @@
+at_higher_level: 
+casting_time: 1 Action
+classes: [[Sorcerer]] [[Wizard]]
+components: V, S, M (a piece of cured leather)
+concentration: No
+duration: 8 hours
+level: 1
+range: Touch
+ritual: No
+school: Abjuration
+title: Mage Armor
+type: Spell
+
+You touch a willing creature who isn’t wearing armor, and a protective magical force surrounds it until the spell ends. The target’s base AC becomes 13 + its Dexterity modifier. The spell ends it if the target dons armor or if you dismiss the spell as an action.

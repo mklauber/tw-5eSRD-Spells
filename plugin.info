@@ -1,0 +1,7 @@
+{
+  "title": "$:/plugins/D&DTools/Spells",
+  "author": "Matt Lauber",
+  "description": "D&D 5e SRD Spells",
+  "plugin-type": "plugin",
+  "version": "1.0.2"
+}

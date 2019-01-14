@@ -1,0 +1,18 @@
+at_higher_level: The spell creates more than one beam when you reach higher levels: 
+Two beams at 5th level
+Three beams at 11th level
+Four beams at 17th level. 
+You can direct the beams at the same target or at different ones. Make a separate attack roll for each beam.
+casting_time: 1 Action
+classes: [[Warlock]]
+components: V, S
+concentration: No
+duration: Instantaneous
+level: 0
+range: 120 feet
+ritual: No
+school: Evocation
+title: Eldritch Blast
+type: Spell
+
+A beam of crackling energy streaks toward a creature within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 force damage.&nbsp;

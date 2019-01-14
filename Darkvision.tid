@@ -1,0 +1,15 @@
+at_higher_level: 
+casting_time: 1 Action
+classes: [[Druid]] [[Ranger]] [[Sorcerer]] [[Wizard]]
+components: V, S, M (either a pinch of dried carrot or an agate)
+concentration: No
+duration: 8 hours
+level: 2
+range: Touch
+ritual: No
+school: Transmutation
+title: Darkvision
+type: Spell
+
+You touch a willing creature to grant it the ability to see in the dark.
+For the duration, that creature has darkvision out to a range of 60 feet.
