@@ -5,5 +5,6 @@
   "plugin-type": "plugin",
   "version": "1.0.2",
   "tags": "[[D&D]]",
-  "summary": "D&D 5e SRD Spells"
+  "summary": "D&D 5e SRD Spells",
+  "source": "https://github.com/mklauber/tw-5eSRD-Spells"
 }
